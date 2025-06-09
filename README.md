@@ -36,6 +36,14 @@ O **Agente da Dio** é um copiloto treinado para atuar como especialista em cont
 
 ---
 
+---
+
+## Acesse o Copilot
+
+Você pode testar o agente diretamente [clicando aqui](https://[https://copilotstudio.microsoft.com/environments/Default-659ce2b8-0714-4198-8c38-dc9b60aabb57/bots/cr113_agente-KGJlT/canvas?__version__=2&enableFileAttachment=true].
+
+---
+
 ## Autor
 
 Desenvolvido por Raquel Silva [rms-s]
